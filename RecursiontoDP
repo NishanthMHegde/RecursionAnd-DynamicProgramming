@@ -1,0 +1,14 @@
+
+Steps to solve a problem that uses Dynamic Programming logic:
+
+1. Basic implementation:
+	a. Visualize the problem on a paper on how it can be solved.
+	b. Break down the problem into smaller sub-problems using recursion.
+	c. Formulate the base cases for recusion.
+	d. Implement a bare basic solution.
+	e. Identify the time and space complexity.
+
+2. Optimization and memoization
+	a. Formulate a datastructure (like a dictionary or object literal) that can hold computed values.
+	b. Identify the key of the datastructure.
+	c. Store the value of the recursive call with the appropriate key so that it can be re-used for both regular and base case. 
